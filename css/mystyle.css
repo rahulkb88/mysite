@@ -520,7 +520,7 @@ a:hover{
 	border-bottom-color:#ED1C24;
 }
 .skill .progress .progress-bar{
-	background:rgb(17, 82, 112);
+	background:rgb(27, 100, 134);
 }
 .skill .button{
 	margin-top:20px;
@@ -551,6 +551,7 @@ a:hover{
 .story .single-story .inner-content{
 	margin-left:125px;
 	position:relative;
+	text-align:justify;
 }
 .story .story-content{
 	position:relative;
@@ -751,7 +752,7 @@ margin:0;
 	line-height:42px;
 	text-align:center;
 	display:block;
-	color:rgb(17, 82, 112);
+	color:rgb(27, 100, 134);
 }
 .footer .social li a:hover{
 	box-shadow:0px 0px 5px rgb(17, 82, 112) inset;
@@ -784,8 +785,8 @@ margin:0;
 ul.languagesKnown li
 {
   list-style: inside;
-  color : rgb(17, 82, 112);
-  padding:5px;
+  color : rgb(72, 170, 216);
+  padding:6px;
 }
 
 .Skill-headings
